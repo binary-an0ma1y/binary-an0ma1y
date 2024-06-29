@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @binary-an0ma1y
 - 👀 I’m interested in Cloud, Docker, Kubernetes, Gen-AI, Automation, Network Pentesting, Raspberry Pi projects, 3D Printing.
 - 🌱 I’m currently learning Cloud Architecture.
-- ✨ I’m looking to collaborate on - local LLM fine tuning, Automation for solving daily chores, DIY Raspberry Pi/Arduino Projects, 3D printing ideas ..
+- ✨ I’m looking to collaborate on - local LLM fine tuning, Automation for solving daily chores, DIY Raspberry Pi/Arduino Projects ..
 - 📫 How to reach me: X- https://x.com/virtualsage_/ | Mail- virtualsage@proton.me
 
 <!---
