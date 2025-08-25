@@ -1,5 +1,5 @@
 - 👋 Hi, I’m VirtualSage
-- 🌱 I’m interested in Cloud, Pentesting and DIY Projects(like arduino-bad-usb.. etc).
+- 🌱 I’m interested in Cloud Engineering, Security, & DIY Raspberry/Arduino Projects.
 - 📫 Contact: virtualsage[at]proton[dot]me
 
 <!---
